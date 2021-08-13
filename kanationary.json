@@ -2,11 +2,46 @@
     {
         "tag":["kana"],
         "title": "Kanaとは",
-        "content":"LainanAPIの後継とされるれのらり製チャッターボット"
+        "content":"LainanAPIの後継とされるれのらり製チャッターボットです。"
     },    
     {
         "tag":["renorari","れのらり"],
         "title": "れのらりとは",
-        "content":"LainanAPIやKanaなどを開発している、Minecraft Anastasiaサーバーの管理者"
+        "content":"LainanAPIやKanaなどを開発している、Minecraft Anastasiaサーバーの管理者です。"
+    },  
+    {
+        "tag":["github"],
+        "title": "GitHubとは",
+        "content":"GitHubは、世界中の人々がコードやデザインデータを保存・共有・公開ができるソースコード管理サービスのことです。Googleや、Microsoft、KanaもGitHubを使用しています。"
+    }   ,
+    {
+        "tag":["google","グーグル"],
+        "title": "Googleとは",
+        "content":"Googleは、インターネット関連のサービスに特化したアメリカ合衆国のの企業であり、世界最大の検索エンジンからコンピューター、ソフトウェアやOSを作成している企業です。世界四大IT企業「GAFA」に所属しています。Googleは https://google.com から使用できますよ！"
+    },  
+    {
+        "tag":["android","アンドロイド"],
+        "title": "Androidとは",
+        "content":"Androidは、Googleが開発したスマートフォン向けオペレーティングシステムであり、Linuxカーネルがベースとなっており高機能なOSです。世界一のシェアをを持つOSであり、月間20億人を超えるアクティブユーザーがいます。"
+    },  
+    {
+        "tag":["discord","ディスコード"],
+        "title": "Discordとは",
+        "content":"DIscordは、Windows・macOS・Linux・Android・iOS・Webブラウザ上で動作する、SNSアプリケーションです。無料(一部有料)で高機能なチャットやVCを使用することができ、非常に便利なツールです。ユーザー数は約291万人となっています。"
+    },  
+    {
+        "tag":["linux","リナックス","ライナックス","リヌックス"],
+        "title": "Linuxとは",
+        "content":"UNIXベースのOSです。フィンランドのリーナス=トーバルズが中心になって開発されたOSでオープンソースです。またライセンスがフリーのためAndroidやUbuntuなどにも使用されています。"
+    },  
+    {
+        "tag":["windows","ウィンドウズ"],
+        "title": "Windowsとは",
+        "content":"Windowsは、アメリカ合衆国のMicrosoft社が開発しているOSです。現在はWindows8.1、Windows10、Windows11(Insider)がサポートされています。"
+    },  
+    {
+        "tag":["ios","アイオーエス"],
+        "title": "iOSとは",
+        "content":"iOSはAppleが開発・提供する、iPhoneとiPod Touch、iPad向けのモバイルオペレーティングシステムです。現在最も新しいiOSはiOS14です。"
     }
 ]
