@@ -1,7 +1,8 @@
 [
     {
         "tag": [
-            "kana"
+            "kana",
+            "Kana"
         ],
         "title": "Kanaとは",
         "content": "LainanAPIの後継とされるれのらり製チャッターボットです。LainanAPIとは仕組みが大きく違い、パフォーマンスが大きく向上しました。"
@@ -9,6 +10,7 @@
     {
         "tag": [
             "renorari",
+            "Renorari",
             "れのらり",
             "monhu",
             "monitorhuman",
