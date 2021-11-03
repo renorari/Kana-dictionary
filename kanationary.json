@@ -239,7 +239,7 @@
       "xhtml"
     ],
     "title": "Extensible Markup Languageとは",
-    "content": "Extensible Markup Languageは、基本的な構文規則を共通とすることで、任意の用途向けの言語に拡張することを容易としたことが特徴のマークアップ言語の総称である。一般的にXMLと略称で呼ばれる。JISによる訳語は「拡張可能なマーク付け言語」と定義している。 SGMLからの移行を目的として開発された。"
+    "content": "Extensible Markup Languageは、基本的な構文規則を共通とすることで、任意の用途向けの言語に拡張することを容易としたことが特徴のマークアップ言語の総称です。一般的にXMLと略称で呼ばれています。JISによる訳語は「拡張可能なマーク付け言語」と定義しています。 SGMLからの移行を目的として開発されました。"
   },
   {
     "tag": [
@@ -247,14 +247,14 @@
       "javascript object notation"
     ],
     "title": "JavaScript Object Notation",
-    "content": "JavaScript Object Notationはデータ記述言語の1つである。軽量なテキストベースのデータ交換用フォーマットでありプログラミング言語を問わず利用できる。名称と構文はJavaScriptにおけるオブジェクトの表記法に由来する。ちなみにKana dictionaryもjsonで管理されている。"
+    "content": "JavaScript Object Notationはデータ記述言語の1つです。軽量なテキストベースのデータ交換用フォーマットでありプログラミング言語を問わず利用できます。名称と構文はJavaScriptにおけるオブジェクトの表記法に由来します。ちなみにKana dictionaryもjsonで管理されています。"
   },
   {
     "tag": [
       "sql"
     ],
     "title": "SQLとは",
-    "content": "SQLは、関係データベース管理システム において、データの操作や定義を行うためのデータベース言語、ドメイン固有言語である。プログラミングにおいてデータベースへのアクセスのために、他のプログラミング言語と併用される。"
+    "content": "SQLは、関係データベース管理システム において、データの操作や定義を行うためのデータベース言語、ドメイン固有言語です。プログラミングにおいてデータベースへのアクセスのために、他のプログラミング言語と併用されています。"
   },
   {
     "tag": [
@@ -262,7 +262,7 @@
       "visual basic for applications"
     ],
     "title": "Visual Basic for Applicationsとは",
-    "content": "Visual Basic for Applicationsは、主にマイクロソフト製のMicrosoft Officeシリーズに搭載されているプログラミング言語である。"
+    "content": "Visual Basic for Applicationsは、主にマイクロソフト製のMicrosoft Officeシリーズに搭載されているプログラミング言語です。"
   },
   {
     "tag": [
@@ -271,13 +271,13 @@
       "rby"
     ],
     "title": "Rubyとは",
-    "content": "Rubyは、まつもとゆきひろにより開発されたオブジェクト指向スクリプト言語。 日本で開発されたプログラミング言語としては初めて国際電気標準会議で国際規格に認証された事例となった。"
+    "content": "Rubyは、まつもとゆきひろにより開発されたオブジェクト指向スクリプト言語です。 日本で開発されたプログラミング言語としては初めて国際電気標準会議で国際規格に認証された事例となっています。"
   },
   {
     "tag": [
       "go"
     ],
     "title": "Goとは",
-    "content": "Goはプログラミング言語の1つである。2009年、GoogleでRobert Griesemer、ロブ・パイク、ケン・トンプソンによって設計された。Goは、静的型付け、C言語の伝統に則ったコンパイル言語、メモリ安全性、ガベージコレクション、構造的型付け、CSPスタイルの並行性などの特徴を持つ。"
+    "content": "Goはプログラミング言語の1つです。2009年、GoogleでRobert Griesemer、ロブ・パイク、ケン・トンプソンによって設計されました。Goは、静的型付け、C言語の伝統に則ったコンパイル言語、メモリ安全性、ガベージコレクション、構造的型付け、CSPスタイルの並行性などの特徴を持ちます。"
   }
 ]
