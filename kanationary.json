@@ -304,5 +304,13 @@
         ],
         "title": "JavaScript",
         "content": "JavaScriptはプログラミング言語の一つです。JavaScriptはプロトタイプベースのオブジェクト指向スクリプト言語ですけれど、クラスなどのクラスベースに見られる機能も取り込んでいます。"
+    },
+    {
+        "tag": [
+            "mc",
+            "minecraft"
+        ],
+        "title": "Minecraft",
+        "content": "Minecraftはゲームの商標である。冒険したり、建築することができる。"
     }
 ]
