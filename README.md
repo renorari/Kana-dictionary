@@ -17,6 +17,8 @@ Kanaのキャラクター設定は、kanaファイルで行われます。
 
 ### 廃止されました
 
+[https://kanationary.renorari.net/](kanationary.renorari.net)に移行しました。
+
 - kanationary.json → カナ辞書
   - 配列
     - tag → Kana の検索時用のタグ(配列)
