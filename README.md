@@ -13,7 +13,9 @@ Kanaのキャラクター設定は、kanaファイルで行われます。
 
 となっています。
 
-## Kanationary(カナ辞書)について
+## ~~Kanationary(カナ辞書)について~~
+
+### 廃止されました
 
 - kanationary.json → カナ辞書
   - 配列
@@ -29,3 +31,4 @@ Kanaのキャラクター設定は、kanaファイルで行われます。
 
 ## 廃止されたファイル
 - JSON形式のキャラクター設定
+- JSON形式のkanationary
