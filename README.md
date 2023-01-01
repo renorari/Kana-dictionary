@@ -13,24 +13,8 @@ Kanaのキャラクター設定は、kanaファイルで行われます。
 
 となっています。
 
-## ~~Kanationary(カナ辞書)について~~
-
-### 廃止されました
-
-[https://kanationary.renorari.net/](kanationary.renorari.net)に移行しました。
-
-- kanationary.json → カナ辞書
-  - 配列
-    - tag → Kana の検索時用のタグ(配列)
-    - title → 内容のタイトル(文字列)
-    - content → 内容(文字列)
-
 ## Kana共通タグ
 
 - user → ユーザ名で置き換えます。
   - 例
     - こんにちは。{user}さん。
-
-## 廃止されたファイル
-- JSON形式のキャラクター設定
-- JSON形式のkanationary
